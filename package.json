@@ -1,0 +1,22 @@
+{
+  "name": "grace-a01-webserver",
+  "version": "1.0.0",
+  "description": "Simple webserver for COMP 426.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-grace4sun.git"
+  },
+  "author": "grace4sun",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-grace4sun/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-grace4sun#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
